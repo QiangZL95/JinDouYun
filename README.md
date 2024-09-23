@@ -22,9 +22,11 @@
 
 3. 原理说明
    android 采用的是systrace与adb
+
+
    ios 是 instrment
 
-4. 数据视图展示
+5. 数据视图展示
    android端（以王者为例）：
    
    
@@ -65,4 +67,6 @@
 
 6. 感谢
    [YueChen-C/py-ios-device: IOS Professional Performance Testing Tool . You can get CPU, GPU, Memory , Lifecycle and other metrics from real iOS devices . iOS 性能测试工具 (github.com)](https://github.com/YueChen-C/py-ios-device)
+
+
    [alibaba/tidevice: tidevice can be used to communicate with iPhone device (github.com)](https://github.com/alibaba/tidevice)
