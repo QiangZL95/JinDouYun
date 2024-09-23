@@ -16,8 +16,9 @@
 
 
    提示 ：工具包需要放在不含中文目录里使用
-   ![d271ae5e-c85b-48d6-82aa-0a6c7f409e29](file:///C:/Users/Avidly/Pictures/Typedown/d271ae5e-c85b-48d6-82aa-0a6c7f409e29.png)
    
+   
+![d271ae5e-c85b-48d6-82aa-0a6c7f409e29](https://github.com/user-attachments/assets/00d52421-f0c8-412c-8896-78bc95217408)
 
 
 
