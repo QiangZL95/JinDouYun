@@ -16,7 +16,7 @@
 
    提示 ：工具包需要放在不含中文目录里使用
 
-![d271ae5e-c85b-48d6-82aa-0a6c7f409e29](D:\Study\sdk\性能\test\JinDouYun\images\d271ae5e-c85b-48d6-82aa-0a6c7f409e29.png)
+![d271ae5e-c85b-48d6-82aa-0a6c7f409e29](https://github.com/QiangZL95/JinDouYun/blob/main/images/d271ae5e-c85b-48d6-82aa-0a6c7f409e29.png)
 
 
 
