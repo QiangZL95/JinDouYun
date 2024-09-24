@@ -12,7 +12,7 @@ tool目录
    
    
 
-   提示 ：工具包需要放在不含中文目录里使用
+   提示 ：工具包需要放在不含中文目录里使用（目录里不要有中文）
 
 ![d271ae5e-c85b-48d6-82aa-0a6c7f409e29](https://github.com/QiangZL95/JinDouYun/blob/main/images/d271ae5e-c85b-48d6-82aa-0a6c7f409e29.png)
 
