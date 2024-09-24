@@ -1,10 +1,8 @@
 # JinDouYun
 
-下载链接 
 
-[【免费】android和ios端应用性能的测试工具资源-CSDN文库](https://download.csdn.net/download/weixin_40895135/89786960)
-
-
+下载地址：
+tool目录
 
 
 
@@ -70,3 +68,9 @@
 
 
    [alibaba/tidevice: tidevice can be used to communicate with iPhone device (github.com)](https://github.com/alibaba/tidevice)
+
+
+
+建了一个群
+![image](https://github.com/user-attachments/assets/18bbc034-58bf-40ec-8458-f6e7e31628c2)
+
