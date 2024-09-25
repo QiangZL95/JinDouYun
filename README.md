@@ -29,33 +29,35 @@ tool目录
    
    
 
-   ![5e92f7e8-8062-4825-8e3b-be6549716438](https://github.com/QiangZL95/JinDouYun/blob/main/images/5e92f7e8-8062-4825-8e3b-be6549716438.png)
-    ![loading-ag-145](https://github.com/QiangZL95/JinDouYun/blob/main/images/2cba49f9-51fb-407f-a309-1a727470d00c.png)
-
-   ![loading-ag-147](https://github.com/QiangZL95/JinDouYun/blob/main/images/47e98ace-69fc-4874-b75d-9a971d80f7f6.png)
-
-   ![loading-ag-149](https://github.com/QiangZL95/JinDouYun/blob/main/images/0a88301f-b9ea-4df6-b16b-5d65f9e3cf3d.png)
-
-   ![loading-ag-151](https://github.com/QiangZL95/JinDouYun/blob/main/images/7916f935-f7a0-49af-ae1d-5db2e8ebcfbf.png)
-
-
-
+   ![5e92f7e8-8062-4825-8e3b-be6549716438](https://i-blog.csdnimg.cn/direct/dbefaa900d5e4f8d89b6b806cbcf2fd1.png)
+   ![loading-ag-145](https://i-blog.csdnimg.cn/direct/55dcecb8f4b243888852d33ef05123cc.png)
+   ![loading-ag-147](https://i-blog.csdnimg.cn/direct/f28f8ca6457f4408bdae5f4f59556db2.png)
+   ![loading-ag-148](https://i-blog.csdnimg.cn/direct/de5cf589ffe14a4298d596afbe840d2c.png)
+   ![loading-ag-149](https://i-blog.csdnimg.cn/direct/9768f66e665a4368884f2adce2132d12.png)
+   ![loading-ag-150](https://i-blog.csdnimg.cn/direct/2c2427f8b7d74825ad226edded02ed32.png)
+   ![loading-ag-151](https://i-blog.csdnimg.cn/direct/56b7ccef8d5b4975b448784b14824b23.png)
+   ![loading-ag-152](https://i-blog.csdnimg.cn/direct/49c88eb426f540809b8ee63e9f4b0e4c.png)
+   ![loading-ag-153](https://i-blog.csdnimg.cn/direct/c7031e149dcf44d48a27b7a34c3957c6.png)
+ 
 
 
    ios端(以一款ios游戏为例)：
+   ![loading-ag-154](https://i-blog.csdnimg.cn/direct/99edcec4027d48ef9710e7f1b92d0986.png)
+   ![loading-ag-155](https://i-blog.csdnimg.cn/direct/78fd69263398436db8f03832776bc533.png)
+   ![loading-ag-156](https://i-blog.csdnimg.cn/direct/600dd3db88e74bffb930e68d8fb4a667.png)
+   ![loading-ag-157](https://i-blog.csdnimg.cn/direct/beb8a43187014bfb9ef095d985505a02.png)
+   ![loading-ag-158](https://i-blog.csdnimg.cn/direct/b35a61b7fbea4e64a167e0e24ce28e33.png)
+   ![loading-ag-159](https://i-blog.csdnimg.cn/direct/968e128a891644f08a6d792f2688858a.png)
+   ![loading-ag-160](https://i-blog.csdnimg.cn/direct/aad902bce0a74bf3be2b97689b0b1454.png)
+   ![loading-ag-161](https://i-blog.csdnimg.cn/direct/c5393322916d4a77bc0ec63f6bc7e117.png)
+   ![loading-ag-162](https://i-blog.csdnimg.cn/direct/0e13da99fedc44f3a08fab0577a6ab69.png)
+   
 
-![loading-ag-153](https://github.com/QiangZL95/JinDouYun/blob/main/images/7b2bd50a-8ab1-4db0-9150-b3af91f646df.png)
 
-
-
-![loading-ag-155](https://github.com/QiangZL95/JinDouYun/blob/main/images/689b24a9-3152-4fe1-9365-dc915b0d9574.png)
-
-        ![loading-ag-157](https://github.com/QiangZL95/JinDouYun/blob/main/images/7b5beb10-d51b-4fd3-86bf-879040f09419.png)
-
-![loading-ag-159](https://github.com/QiangZL95/JinDouYun/blob/main/images/3b1a0d82-12fb-434c-8147-2bba13deb22b.png)
 
 4. 功能说明
-      ![39c10ed6-4597-4df4-b713-b09e46c80cb0](https://github.com/QiangZL95/JinDouYun/blob/main/images/39c10ed6-4597-4df4-b713-b09e46c80cb0.png)
+  
+    ![loading-ag-163](https://i-blog.csdnimg.cn/direct/ee8003358911462cbb0aaf0209637351.png)
    
    
 
